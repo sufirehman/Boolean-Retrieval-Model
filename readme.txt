@@ -1,0 +1,6 @@
+-> Download the Assignment
+-> Change the path in search.py to the directory and folder where the assignment is downloaded.
+-> To run assignment first download nltk package using pip install nltk.
+-> Run search.py file.
+-> All the gold queries gives correct results as given.
+-> THANK YOU!
